@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25.784" height="24.388" viewBox="0 0 25.784 24.388">
+  <g id="Group_3816" data-name="Group 3816" transform="translate(1 1)">
+    <line id="Line_130" data-name="Line 130" y1="2.916" transform="translate(11.945)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="Line_131" data-name="Line 131" y1="2.061" x2="2.061" transform="translate(18.104 3.405)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="Line_132" data-name="Line 132" y1="2.063" x2="2.061" transform="translate(3.512 18.21)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="Line_133" data-name="Line 133" x2="2.916" transform="translate(20.868 11.625)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="Line_134" data-name="Line 134" x2="2.916" transform="translate(0 11.625)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="Line_135" data-name="Line 135" x2="2.061" y2="2.061" transform="translate(18.317 17.998)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="Line_136" data-name="Line 136" x2="2.061" y2="2.061" transform="translate(3.725 3.405)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    <g id="_8679697_lightbulb_flash_idea_light_bulb_icon" data-name="8679697_lightbulb_flash_idea_light_bulb_icon" transform="translate(2.916 5.436)">
+      <path id="Path_579" data-name="Path 579" d="M0,0H17.952V17.952H0Z" fill="none"/>
+      <path id="Path_580" data-name="Path 580" d="M8.468,13.968H11.5a4.3,4.3,0,0,1,1.3-2.451c.085-.091.622-.649.686-.728a4.488,4.488,0,1,0-7.009,0c.064.08.6.638.687.729a4.3,4.3,0,0,1,1.3,2.452Zm3.012,1.5H8.488v.748H11.48Zm-6.168-3.74a5.984,5.984,0,1,1,9.343,0c-.464.577-1.679,1.495-1.679,2.617v1.87a1.5,1.5,0,0,1-1.5,1.5H8.488a1.5,1.5,0,0,1-1.5-1.5v-1.87c0-1.122-1.216-2.039-1.68-2.618Zm5.42-3.737H12.6L9.236,12.475V9.483H7.366l3.366-4.491v3Z" transform="translate(-1.008 -0.504)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

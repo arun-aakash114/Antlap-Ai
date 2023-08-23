@@ -1,0 +1,38 @@
+.filerHead {
+    padding: 10px 20px;
+    color: #2E2E2E;
+    font-size: 20px !important;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.filterForm {
+    padding: 10px 20px !important;
+    height: 100%;
+    padding-bottom: 40px !important;
+    overflow: auto;
+}
+
+.filterForm .inputField .MuiInputBase-root.MuiOutlinedInput-root.MuiInputBase-colorPrimary {
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+input#outlined-basic {
+    height: unset;
+}
+
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation1.MuiPaper-root.MuiMenu-paper.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation8.MuiPopover-paper.css-1poimk-MuiPaper-root-MuiMenu-paper-MuiPaper-root-MuiPopover-paper {
+    width: 260px;
+    border: 1px solid #ddd;
+}
+
+.filterForm .inputField div#demo-simple-select {
+    padding: 10px 15px;
+}
+/* 
+input#outlined-basic {
+    padding: 10px 15px;
+} */
