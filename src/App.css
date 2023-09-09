@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300&display=swap');
 
 :root {
-  --primary: #4B61FF;
+  --primary: #426e81;
   --secondary: #ea80fc;
   --on-primary: #fafafa;
   --on-secondary: #000504;
@@ -147,7 +147,7 @@ h6 {
 .header-count {
   font-size: 20px;
   padding: 5px 15px;
-  background: #4B61FF;
+  background: #426e81;
   border-radius: 5px;
   margin-left: 10px !important;
   color: #fff;
@@ -232,7 +232,7 @@ h6 {
   margin-top: 20px;
 }
 .avtar-custom-rect svg{
-  color: #4B61FF;
+  color: #426e81;
   font-size: 2.5rem!important;
 }
 .avtar-custom-rect-sml svg{
@@ -242,6 +242,9 @@ h6 {
 
 .profile-holder {
   margin: 0 auto;
+}
+.css-1bptiuh-MuiSvgIcon-root{
+  color:#426e81 !important ;
 }
 
 .MuiAvatar-root.MuiAvatar-circular.MuiAvatar-colorDefault.avtar-custom-rect-smll.css-wrzqdg-MuiAvatar-root {
@@ -284,12 +287,12 @@ h6 {
 }
 
 .avtar-custom-rect svg {
-  color: #4B61FF;
+  color: #426e81;
   font-size: 25px !important;
 }
 
 .avtar-custom-rect-sml svg {
-  color: #4B61FF;
+  color: #426e81;
   font-size: 24px !important;
   cursor: pointer;
 }
@@ -305,7 +308,7 @@ button.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-s
 }
 
 svg.MuiSvgIcon-root.MuiSvgIcon-fontSizeMedium.lock-btn.css-i4bv87-MuiSvgIcon-root {
-  color: #4b61ff;
+  color: #426e81;
 }
 
 button.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeMedium.MuiButton-containedSizeMedium.MuiButtonBase-root.update-btn.css-sghohy-MuiButtonBase-root-MuiButton-root {
@@ -366,7 +369,7 @@ button.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-s
 }
 
 svg.MuiSvgIcon-root.MuiSvgIcon-fontSizeMedium.actnSvg.css-i4bv87-MuiSvgIcon-root {
-  color: #4b61ff;
+  color: #426e81;
   background: white;
   box-shadow: rgb(0 0 0 / 24%) 0px 3px 8px;
   border-radius: 5px;
@@ -505,7 +508,7 @@ p.MuiTypography-root.MuiTypography-body1.sub-text.css-ahj2mt-MuiTypography-root 
 
 p.card-heading span {
   font-weight: 600;
-  background: #4b61ff;
+  background: #426e81;
   color: #fff;
   padding: 5px 10px;
   border-radius: 5px;
@@ -677,7 +680,7 @@ span.MuiButtonBase-root.MuiTableSortLabel-root.css-1qgma8u-MuiButtonBase-root-Mu
 }
 
 .primary {
-  color: #4B61FF;
+  color: #426e81;
 }
 
 .yellow {
@@ -739,7 +742,7 @@ table.table.table-striped p {
 }
 
 a {
-  color: #4B61FF;
+  color: #426e81;
   text-decoration: none;
 }
 
@@ -1491,7 +1494,7 @@ button.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-s
 }
 
 svg.MuiSvgIcon-root.MuiSvgIcon-fontSizeMedium.lock-btn.css-i4bv87-MuiSvgIcon-root {
-  color: #4b61ff;
+  color: #426e81;
 }
 
 button.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeLarge.MuiButton-containedSizeLarge.MuiButtonBase-root.cpwd-btn.css-jh47zj-MuiButtonBase-root-MuiButton-root {
@@ -1564,7 +1567,7 @@ table.MuiTable-root.table-margin.css-1gplja-MuiTable-root {
 
 .active {
   background-color: #f5f5f5 !important;
-  color: #4b61ff !important;
+  color: #426e81 !important;
   padding-left: 10px !important;
   border-left: 8px solid #fdba43 !important;
 }
@@ -1665,11 +1668,11 @@ p.MuiTypography-root.MuiTypography-body2.MuiTypography-alignCenter.copyright.css
 }
 
 a.MuiButtonBase-root.MuiListItem-root.MuiListItem-gutters.MuiListItem-padding.MuiListItem-button.sb_icon.css-bshv44-MuiButtonBase-root-MuiListItem-root.active .MuiListItemText-root.css-tlelie-MuiListItemText-root span.MuiTypography-root.MuiTypography-body1.MuiListItemText-primary.css-10hburv-MuiTypography-root {
-  color: #4b61ff;
+  color: #426e81;
 }
 
 a.MuiListItem-root.MuiListItem-gutters.MuiListItem-padding.sb_icon.css-1p823my-MuiListItem-root.active .MuiListItemText-root.css-tlelie-MuiListItemText-root span.MuiTypography-root.MuiTypography-body1.MuiListItemText-primary.css-10hburv-MuiTypography-root {
-  color: #4b61ff;
+  color: #426e81;
 }
 
 .MuiFormControl-root.Srch-fld-color.css-1nrlq1o-MuiFormControl-root {
@@ -1677,7 +1680,7 @@ a.MuiListItem-root.MuiListItem-gutters.MuiListItem-padding.sb_icon.css-1p823my-M
 }
 
 svg.MuiSvgIcon-root.MuiSvgIcon-fontSizeMedium.search-icon.css-i4bv87-MuiSvgIcon-root {
-  color: #4b61ff;
+  color: #426e81;
   cursor: pointer;
 }
 
@@ -1736,7 +1739,7 @@ p.MuiTypography-root.MuiTypography-body1.fd-step.css-ahj2mt-MuiTypography-root {
 .solution-count-result {
   font-size: 20px;
   padding: 5px 12px;
-  background: #4B61FF;
+  background: #426e81;
   border-radius: 50%;
   color: #fff;
   font-weight: 600 !important;
@@ -1778,7 +1781,7 @@ p.MuiTypography-root.MuiTypography-body1.fd-step.css-ahj2mt-MuiTypography-root {
 .solution-count {
   font-size: 20px;
   padding: 5px 12px;
-  background: #4B61FF;
+  background: #426e81;
   border-radius: 50%;
   color: #fff;
   font-weight: 600 !important;
@@ -1919,7 +1922,7 @@ img.actnSvg {
   height: 10px !important;
   margin-left: -5px !important;
   top: -3px !important;
-  background: #4B61FF !important;
+  background: #426e81 !important;
 }
 
 span.spl-t {
@@ -2250,7 +2253,7 @@ button.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-s
 }
 
 .btn-primary {
-  background-color: #4B61FF !important;
+  background-color: #426e81 !important;
   border-radius: 10px !important;
   margin-right: 10px;
   color: #fffcfc !important;
@@ -2548,7 +2551,7 @@ button.MuiButtonBase-root.MuiIconButton-root.MuiIconButton-sizeLarge.moreicon.cs
 .ic-single.stage2.css-sghohy-MuiButtonBase-root-MuiButton-root {
   background: #fff !important;
   padding: 15px !important;
-  color: #4b61ff;
+  color: #426e81;
   box-shadow: rgb(0 0 0 / 10%) 0px 4px 12px;
 }
 
@@ -2568,7 +2571,7 @@ button.MuiButtonBase-root.MuiIconButton-root.MuiIconButton-sizeLarge.moreicon.cs
 }
 
 button.MuiButtonBase-root.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeMedium.MuiButton-containedSizeMedium.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeMedium.MuiButton-containedSizeMedium.css-sghohy-MuiButtonBase-root-MuiButton-root {
-  background: #4b61fe;
+  background: #426e81;
 }
 
 .card-btns button {
@@ -2596,9 +2599,9 @@ button.MuiButton-containedSecondary {
 
 button.back-btn {
   background: #fff !important;
-  border: 1px solid #4B61FF;
+  border: 1px solid #426e81;
   padding: 7.8px 10px;
-  color: #4B61FF !important;
+  color: #426e81 !important;
   box-shadow: rgb(163 163 163 / 14%) 0px 8px 24px;
 }
 
@@ -2808,7 +2811,7 @@ div#panel1a-header {
 }
 
 .text-primary {
-  color: #4b61ff;
+  color: #426e81;
 }
 
 .text-light {
@@ -2884,7 +2887,7 @@ div#panel1a-header {
   width: 45px;
   height: 45px;
   top: 6px;
-  color: #4B61FF;
+  color: #426e81;
 }
 
 .resol_path {
@@ -2995,7 +2998,7 @@ input#outlined-basic {
   margin-top: 64px;
   box-shadow: none;
   width: 350px;
-  border-right: 2px solid #4B61FF;
+  border-right: 2px solid #426e81;
   background-color: #ECF0FF;
 
 }
@@ -3049,12 +3052,12 @@ input#outlined-basic {
 }
 
 .masters-menu .Mui-expanded .css-uvvswg-MuiButtonBase-root-MuiAccordionSummary-root {
-  background-color: #4B61FF !important;
+  background-color: #426e81 !important;
   color: #fff;
 }
 
 .masters-menu .Mui-expanded .css-uvvswg-MuiButtonBase-root-MuiAccordionSummary-root svg {
-  /* background-color: #4B61FF !important; */
+  /* background-color: #426e81 !important; */
   color: #fff;
 }
 
@@ -3084,7 +3087,7 @@ input#outlined-basic {
 }
 
 li.MuiBreadcrumbs-li a {
-  color: #4b61fe;
+  color: #426e81;
   font-size: 14px;
 }
 
@@ -3100,7 +3103,7 @@ label.MuiFormLabel-root.MuiInputLabel-root.MuiInputLabel-formControl.MuiInputLab
 button.MuiButtonBase-root.MuiIconButton-root.MuiIconButton-edgeEnd.MuiIconButton-sizeSmall.css-1bkxqye-MuiButtonBase-root-MuiIconButton-root {
   background: none;
   box-shadow: none;
-  color: #4B61FF;
+  color: #426e81;
   margin-left: 0;
   padding: 0;
 }
@@ -3116,7 +3119,7 @@ button.MuiButtonBase-root.MuiIconButton-root.MuiIconButton-edgeEnd.MuiIconButton
 
 .us-cs-down {
   background: #EAEDFD !important;
-  color: #4B61FF !important;
+  color: #426e81 !important;
   border-radius: 10px !important;
   padding: 8px !important;
 }
@@ -3127,18 +3130,18 @@ div#demo-popup-popper ul.MuiList-root.MuiList-padding.makeStyles-list-2.css-h4y4
 
 div#demo-popup-popper ul.MuiList-root.MuiList-padding.makeStyles-list-2.css-h4y409-MuiList-root li.MuiButtonBase-root.MuiMenuItem-root.MuiMenuItem-gutters.MuiMenuItem-root.MuiMenuItem-gutters.css-kk1bwy-MuiButtonBase-root-MuiMenuItem-root svg {
   margin-right: 10px;
-  color: #4B61FF;
+  color: #426e81;
 }
 
 .bck-btn {
-  border: 1px solid #4B61FF !important;
+  border: 1px solid #426e81 !important;
   background: #fff !important;
-  color: #4B61FF !important;
+  color: #426e81 !important;
   box-shadow: none !important;
 }
 
 button.MuiButtonBase-root.MuiIconButton-root.MuiIconButton-colorPrimary.MuiIconButton-sizeMedium.css-1kuq5xv-MuiButtonBase-root-MuiIconButton-root {
-  background: #4B61FF;
+  background: #426e81;
   color: #fff;
 }
 
@@ -3178,7 +3181,7 @@ button.MuiButtonBase-root.MuiIconButton-root.MuiIconButton-colorPrimary.MuiIconB
 .customer-create .top svg {
   width: 30px;
   height: 30px;
-  color: #4B61FF;
+  color: #426e81;
   margin-right: 10px;
 }
 
@@ -3200,7 +3203,7 @@ input#bootstrap-input {
 }
 
 .css-5ryogn-MuiButtonBase-root-MuiSwitch-switchBase.Mui-checked {
-  color: #4B61FF !important;
+  color: #426e81 !important;
 }
 
 .css-5ryogn-MuiButtonBase-root-MuiSwitch-switchBase.Mui-checked+.MuiSwitch-track {
@@ -3285,7 +3288,7 @@ input#bootstrap-input {
   display: flex;
   font-size: 14px;
   align-items: center;
-  color: #4b61ff;
+  color: #426e81;
   margin-right: 15px;
 }
 
@@ -3358,7 +3361,7 @@ input#bootstrap-input {
   padding: 15px;
   border-radius: 15px;
   box-shadow: rgb(0 0 0 / 4%) 0px 4px 12px;
-  border-top: 4px solid #4b61ff;
+  border-top: 4px solid #426e81;
 }
 
 .MuiBox-root.css-8teumg br {

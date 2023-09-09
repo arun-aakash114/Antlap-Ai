@@ -422,7 +422,7 @@ function Managemeeting() {
                           <Typography>Meeting Link:&nbsp;</Typography>
                           <a href='#' ><Typography>{row.MeetingUrl} </Typography></a>
                           <CopyToClipboard text={row.MeetingUrl}>
-                            <ContentCopyIcon sx={{ color: '#4B61FF', marginLeft: '5px', cursor: 'pointer' }} />
+                            <ContentCopyIcon sx={{ color: '#426e81', marginLeft: '5px', cursor: 'pointer' }} />
                           </CopyToClipboard>
                         </Stack>
                         <Box sx={{ mt: 2 }}>

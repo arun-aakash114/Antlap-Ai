@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="35" viewBox="0 0 24 35">
   <g id="Group_3893" data-name="Group 3893" transform="translate(-309 -445)">
     <path id="_8674892_ic_fluent_layer_regular_icon" data-name="8674892_ic_fluent_layer_regular_icon" d="M22.312,13.477a2.282,2.282,0,0,1-.658.681l-6.9,4.655a2.85,2.85,0,0,1-3.189,0l-6.9-4.655a2.281,2.281,0,0,1-.888-2.61l7.8,5.2a2.849,2.849,0,0,0,2.979.112l.183-.112,7.8-5.2A2.275,2.275,0,0,1,22.312,13.477Zm.23,1.775a2.28,2.28,0,0,1-.887,2.61l-6.9,4.655a2.85,2.85,0,0,1-3.189,0l-6.9-4.655a2.281,2.281,0,0,1-.888-2.61l7.8,5.2a2.849,2.849,0,0,0,2.979.112l.183-.112Zm-7.8-11.769L22,8.32a1.14,1.14,0,0,1,0,1.9l-7.255,4.837a2.85,2.85,0,0,1-3.161,0L4.329,10.217a1.14,1.14,0,0,1,0-1.9l7.255-4.837A2.85,2.85,0,0,1,14.745,3.483ZM12.664,4.83l-.132.076L5.99,9.269l6.543,4.363a1.14,1.14,0,0,0,1.133.076l.132-.076,6.542-4.363L13.8,4.906A1.14,1.14,0,0,0,12.664,4.83Z" transform="translate(307.33 441.995)" fill="#5271ff"/>
-    <text id="BOM" transform="translate(309 476)" fill="#4b61ff" font-size="10" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">BOM</tspan></text>
+    <text id="BOM" transform="translate(309 476)" fill="#426e81" font-size="10" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">BOM</tspan></text>
   </g>
 </svg>
